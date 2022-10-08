@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently studying on FPT university
+- 🌱 I’m currently learning java
+- 📫 How to reach me: [Minh Tran](mailto:minhtran121202@gmail.com?subject=[GitHub])
 <!--
 **Minhtda/Minhtda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
